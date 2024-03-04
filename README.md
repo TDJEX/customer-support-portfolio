@@ -1,2 +1,4 @@
 # customer-support-portfolio
-I'm a customer support professional with 5+ years of experience. I have strong communication and problem-solving skills. I'm also proficient in using customer service software tool. I created this portfolio to showcase my skills and experience, and to help potential employers learn more about me.
+Welcome to my customer support portfolio! This project showcases my skills and experience in the customer support field.
+I have extensive experience with various customer support software, including Zendesk, Freshdesk, and Intercom. I'm also proficient in using chat tools such as WhatsAppy, Messenger, and Instagram. I'm an expert at managing customer inquiries and resolving issues in a timely and efficient manner.
+To use this project, simply visit the link in the repository description. You'll be taken to my portfolio website, where you can explore my experience and skills. If you have any questions, please contact me via email or chat.
